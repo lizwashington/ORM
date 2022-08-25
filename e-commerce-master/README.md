@@ -32,10 +32,7 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 
 ## Walk Through
 
-[Walkthrough Videos](https://drive.google.com/drive/folders/1UKmqAeIyr4oqUsGZivqgn5d3rIXFsLF2?usp=sharing)
 
-## License
-* MIT
 
 ## Installation
 
